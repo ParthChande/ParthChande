@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on [DoodleSense](https://github.com/ParthChande/DoodleSense)
 
-- 🌱 I’m currently learning **Android Development**
-
+- 🌱 I'm currently pursuing a **Master's in Electronics and Telecommunication Engineering**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/ParthChande](https://github.com/ParthChande)
 
 <h3 align="left">Connect with me:</h3>
